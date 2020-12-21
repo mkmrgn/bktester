@@ -1,4 +1,5 @@
 name: "Mike's test"
+description: "I'm testing something out here"
 steps:
   - label: ":pipeline:"
     command: "buildkite-agent pipeline upload"
